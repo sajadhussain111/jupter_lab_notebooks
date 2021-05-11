@@ -12,6 +12,6 @@
   "port": 50000,
   "ssldsn": "DATABASE=BLUDB;HOSTNAME=dashdb-txn-sbox-yp-lon02-07.services.eu-gb.bluemix.net;PORT=50001;PROTOCOL=TCPIP;UID=fsh75730;PWD=m0fn42+l9r44bjpm;Security=SSL;",
   "ssljdbcurl": "jdbc:db2://dashdb-txn-sbox-yp-lon02-07.services.eu-gb.bluemix.net:50001/BLUDB:sslConnection=true;",
-  "uri": "db2://fsh75730:m0fn42%2Bl9r44bjpm@dashdb-txn-sbox-yp-lon02-07.services.eu-gb.bluemix.net:50000/BLUDB",
+  "uri": "db2://fsh75730:123456789@dashdb-txn-sbox-yp-lon02-07.services.eu-gb.bluemix.net:50000/BLUDB",
   "username": "fsh75730"
 }
